@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LowPolySoldiers_demo/animation/soldier3script.cs">
+    <Files>
+      <File FileName="Assets/LowPolySoldiers_demo/animation/soldier3script.cs" Line="39" Column="27" />
+      <File FileName="Assets/cityblock/Objects/TripodScript.cs" Line="38" Column="24" />
+      <File FileName="Assets/LowPolySoldiers_demo/animation/soldierscript.cs" Line="1" Column="1" />
+      <File FileName="Assets/LowPolySoldiers_demo/animation/soldier2script.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

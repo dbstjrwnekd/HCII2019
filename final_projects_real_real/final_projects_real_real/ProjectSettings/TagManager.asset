@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - readable
+  - tripod
+  - planks_1
+  - car1
+  - car2
+  - terrain
+  - detailstone1
+  - detailstone2
+  - rocks1_1
+  - rocks2
+  - rocks1_2
+  - rock1
+  - rock1_1
+  - rock1_2
+  - rock1_3
+  - rock1_4
+  - rock2
+  - rock2_1
+  - rock3
+  - rock3_1
+  - rockarc1
+  - rock2_2
+  - rock1_5
+  - rock4
+  - rock1_6
+  - rocks 1
+  - rock1_7
+  - rock1_8
+  - rock2_3
+  - rock5
+  - rock6
+  - b1_bench_1_2
+  - b1_bench_2
+  - b1_bench_2_2
+  - b1_building1_1
+  - b1_building1_2
+  - b1_building2_2_2
+  - b1_building2_2_3
+  - b1_building4_2
+  - b1_building4_2_2
+  - b1_building5_1
+  - b1_pavement_2
+  - pavementbricks
+  - pavementbricks_1
+  - planks
+  - planks_2
+  - sideblock1
+  - sideblock1_1_2
+  - sideblock1_2
+  - wire_1
+  - wire_4
+  - wire_5
+  - wire_6
+  - wire_7
+  - wire_8
+  - wire_9
+  - bench
+  - bench_1
+  - b2building2_2
+  - b2building4
+  - b2building5
+  - b2pavement
+  - b2sideblock1_1
+  - wire
+  - wire_2
+  - wire_3
+  - block3
+  - floor
+  - pavementbricks_1_2
+  - streetlight
+  - streetlight_1
+  - streetlight_2
+  - b4bench
+  - b4bench_1
+  - b4building4
+  - b4building5
+  - b4pavement
+  - b4sideblock1_1
+  - b4wire
+  - b4wire_2
+  - b4wire_3
+  - b4building2_2
+  - crate
+  - crate_1
+  - trash
+  - streetlight(out)
+  - streetlight1(out)
+  - streetlight2(out)
+  - streetlight3(out)
+  - streetlight_4(out)
+  - streetlight_3(out)
+  - streetlight_2(out)
+  - streetlight_1(out)
+  - streetlight_(out)
+  - trashcan2
+  - trashcan1
+  - trashcan
+  - plane
+  - runner
+  - shooter
+  - back
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Sphere/plane2Scripts.cs">
+    <Files>
+      <File FileName="Assets/Sphere/planeScripts.cs" Line="29" Column="23" />
+      <File FileName="Assets/Sphere/plane2Scripts.cs" Line="23" Column="3" />
+      <File FileName="Assets/LowPolySoldiers_demo/animation/soldierscript.cs" Line="84" Column="28" />
+      <File FileName="Assets/LowPolySoldiers_demo/animation/soldier3script.cs" Line="63" Column="31" />
+      <File FileName="Assets/LowPolySoldiers_demo/animation/soldier2script.cs" Line="74" Column="24" />
+      <File FileName="Assets/cityblock/Objects/TripodScript.cs" Line="55" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
